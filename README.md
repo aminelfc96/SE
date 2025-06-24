@@ -1,1 +1,1 @@
-Software Engineering Sem
+Software Engineering
