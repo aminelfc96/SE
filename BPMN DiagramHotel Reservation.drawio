@@ -10,12 +10,12 @@
         <mxCell id="wNJc03guBC1biLOyHMaj-2" value="&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Guest&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="920" y="-200" width="330" height="1080" as="geometry" />
         </mxCell>
-        <mxCell id="wNJc03guBC1biLOyHMaj-3" value="Receptionist" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
+        <mxCell id="wNJc03guBC1biLOyHMaj-3" value="Receptionist" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="920" width="200" height="520" as="geometry" />
         </mxCell>
         <object label="Hotel Manager" Alias="HM" id="wNJc03guBC1biLOyHMaj-4">
           <mxCell style="rounded=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacing=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=12;" parent="1" vertex="1">
-            <mxGeometry x="-140" y="700" width="240" height="357.5" as="geometry" />
+            <mxGeometry x="-120" y="880" width="240" height="357.5" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="wNJc03guBC1biLOyHMaj-5" value="Card Payment System" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
@@ -87,26 +87,41 @@
         <mxCell id="eGQvxiqoASxtvBs6ShRT-21" value="Request invoice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1025" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eGQvxiqoASxtvBs6ShRT-22" value="Use booking ID to find booking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eGQvxiqoASxtvBs6ShRT-22" value="Use booking ID to find booking" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="930" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eGQvxiqoASxtvBs6ShRT-23" value="Check booking details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eGQvxiqoASxtvBs6ShRT-23" value="Check booking details" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="1010" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eGQvxiqoASxtvBs6ShRT-24" value="Check-in guest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eGQvxiqoASxtvBs6ShRT-24" value="Check-in guest" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="1090" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eGQvxiqoASxtvBs6ShRT-25" value="Guest stays in room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eGQvxiqoASxtvBs6ShRT-25" value="Guest stays in room" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="1140" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eGQvxiqoASxtvBs6ShRT-26" value="Settle guest account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eGQvxiqoASxtvBs6ShRT-26" value="Settle guest account" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="1200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eGQvxiqoASxtvBs6ShRT-27" value="Print invoice if requested" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eGQvxiqoASxtvBs6ShRT-27" value="Print invoice if requested" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="1320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eGQvxiqoASxtvBs6ShRT-28" value="Complete checkout process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eGQvxiqoASxtvBs6ShRT-28" value="Complete checkout process" style="rounded=1;whiteSpace=wrap;html=1;container=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="1400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGQvxiqoASxtvBs6ShRT-30" value="Process payment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="940" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGQvxiqoASxtvBs6ShRT-31" value="Payment successful?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1000" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eGQvxiqoASxtvBs6ShRT-32" value="Handle payment failure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1169" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="eGQvxiqoASxtvBs6ShRT-33" value="Request monthly report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eGQvxiqoASxtvBs6ShRT-35" value="View monthly report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
